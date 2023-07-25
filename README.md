@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadin</h1>
 <h3 align="center">A passionate CS student at West Chester University of Pennsylvania</h3>
-<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif](https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif)">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ActualBabyishAsiaticmouflon-max-1mb.gif">
 
 - 🔭 I’m currently working on [a 4-digit pin guesser](https://github.com/kmatotek/4dig-pin-guesser)
 
