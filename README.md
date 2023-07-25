@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadin</h1>
 <h3 align="center">A passionate CS student at West Chester University of Pennsylvania</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA1dzZ1dWV1Ym42bXZnbGgyZWl5aDdraGVsanZseDIxY3hlYjFsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/6f/40/926f4078d335a5d9b9592dbe9791a2df.gif">
 
 - 🔭 I’m currently working on [a 4-digit pin guesser](https://github.com/kmatotek/4dig-pin-guesser)
 
