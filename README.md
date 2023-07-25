@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kadin</h1>
+<h1 align="center">Hi, I'm Kadin</h1>
 <h3 align="center">A passionate CS student at West Chester University of Pennsylvania</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/6f/40/926f4078d335a5d9b9592dbe9791a2df.gif">
 
