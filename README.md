@@ -1,20 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kadin</h1>
-<h3 align="center">A passionate CS student at West Chester University of Pennsylvania</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/6f/40/926f4078d335a5d9b9592dbe9791a2df.gif">
 
-- 🔭 I’m currently working on [a 4-digit pin guesser](https://github.com/kmatotek/4dig-pin-guesser)
-
-- 🌱 I’m currently learning **Java and Python**
-
-- 👯 I’m looking to collaborate on [https://github.com/kmatotek/password-gen](https://github.com/kmatotek/password-gen)
-
-- 🤝 I’m looking for help with **a password generator**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kmatotek?tab=repositories](https://github.com/kmatotek?tab=repositories)
-
-- 📫 How to reach me **kadinstitch@gmail.com**
-
-- ⚡ Fun fact **I play hockey at West Chester University**
+HELLO
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
