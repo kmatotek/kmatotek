@@ -1,3 +1,5 @@
 <p align="center">
-    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/92/6f/40/926f4078d335a5d9b9592dbe9791a2df.gif">
+  <img alt="Sci-Fi Math Explorer" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 </p>
+
+
